@@ -1,5 +1,2 @@
-print("this is the second file")
-
-print("1st change in this file")
-
-print("one more")
+print("something from main")
+print("something from feature branch")
